@@ -19,5 +19,5 @@ loop: Allow the user to select one
 ```
 
 Notes:
-    Not all datasets have json representations --> script fails
-    Avoid monstrous datasets such as All Crimes from 2001 to Present (5m records)
+* Not all datasets have json representations --> script fails
+* Avoid monstrous datasets such as All Crimes from 2001 to Present (5m records)
