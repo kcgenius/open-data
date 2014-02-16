@@ -15,7 +15,9 @@ loop: Allow the user to select one
     Write a json version of the dataset to a local file
     From the dataset metadata, create a namedtuple for the column names
     Dump all dataset rows as namedtuples
-    Go to loop ```
+    Go to loop
+    
+```
 
 Notes:
     Not all datasets have json representations --> script fails
