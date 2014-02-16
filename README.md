@@ -3,8 +3,6 @@ Open_Data
 
 Python interactions with Open Data repositories
 
-### 3
-# 1
 ### chigago_datasets.py
 
 Socrata Open Data datasets can be selected, cached locally, and printed out.
